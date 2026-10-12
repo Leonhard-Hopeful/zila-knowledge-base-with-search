@@ -1,0 +1,10 @@
+doc-env/
+.venv/
+.git/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+uploads/
+README.md

@@ -1,0 +1,12 @@
+doc-env/
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+uploads/
+qdrant_local/
+.pytest_cache/
+.idea/
+.vscode/
